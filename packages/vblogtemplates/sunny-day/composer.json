@@ -1,0 +1,11 @@
+{
+  "name": "vblogtemplates/users",
+  "description": "The template of user profile site",
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "VblogTemplates\\SunnyDay\\": "src/"
+    }
+  }
+}
